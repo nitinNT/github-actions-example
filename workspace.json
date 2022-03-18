@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "projects": {
+    "nest-example": "apps/nest-example"
+  }
+}
